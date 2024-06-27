@@ -1,0 +1,21 @@
+ body{
+    margin: 0;
+ }
+ .images{
+    padding: 50px;
+
+ }
+ .container{
+    margin: 0 auto;
+    width: 960px;
+    border: 1px solid red;
+ }
+ .image_item{
+    box-sizing: border-box;
+    float: left;
+    width: 25%;
+    padding: 0 3px;
+ }
+ .image_item img{
+    width: 100%;
+ }
